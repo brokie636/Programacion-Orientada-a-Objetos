@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio22Cap4 {
+public class Capitulo4_ejercicio_22 {
 
     public static void main(String args[]) {
         double salariomensual;
