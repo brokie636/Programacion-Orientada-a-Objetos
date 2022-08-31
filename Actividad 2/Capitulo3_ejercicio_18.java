@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio18Cap3 {
+public class Capitulo3_ejercicio_18 {
     public static void main(String args[]) {
         double salbru, salnet;
         Scanner entrada = new Scanner(System.in);
