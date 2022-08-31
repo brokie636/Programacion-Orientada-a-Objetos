@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio23Cap4 {
+public class Capitulo4_ejercicio_23 {
     public static void main(String args[]) {
         double solucion1, solucion2;
         Scanner entrada = new Scanner(System.in);
