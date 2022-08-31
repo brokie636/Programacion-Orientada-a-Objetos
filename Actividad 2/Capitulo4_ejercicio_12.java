@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Ejercicio12Cap4 {
+public class Capitulo4_ejercicio_12 {
     public static void main(String args[]) {
         int HET, HEE8, SALARIO=0;
         Scanner entrada = new Scanner(System.in);
